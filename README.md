@@ -4,11 +4,11 @@ Trabalho apresentado para a componente curricular Projeto integrador I, com o in
 
 Os seguintes projetos foram utilizados como base para realização deste trabalho:
 
-Openni camera project : Disponível [aqui]([GitHub - ros-drivers/openni_camera: A ROS driver for OpenNI depth (+ RGB) cameras.](https://github.com/ros-drivers/openni_camera))
+Openni camera project : Disponível [aqui](https://github.com/ros-drivers/openni_camera)
 
-Melfa_robot: Disponível [aqui]([GitHub - tork-a/melfa_robot](https://github.com/tork-a/melfa_robot))
+Melfa_robot: Disponível [aqui](https://github.com/tork-a/melfa_robot)
 
-Ball_tracker and ROS: Disponível [aqui]([GitHub - trunc8/ball-tracking-opencv-and-ros: Python implementation of Ball tracking using OpenCV and CvBridge in ROS](https://github.com/trunc8/ball-tracking-opencv-and-ros))
+Ball_tracker and ROS: Disponível [aqui](https://github.com/trunc8/ball-tracking-opencv-and-ros)
 
 Para utilizar o pacote deste repositorio, é necessário realizar o passo a passo presente no [site]([kinetic/Installation/Ubuntu - ROS Wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu)) oficial do ROS Kinetic-Kame e em seguida instalar as dependencias necessárias.
 
