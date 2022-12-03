@@ -1,6 +1,21 @@
 # Melfa Img2Joint Controller
 
+#### Projeto desenvolvido na disciplina de Projeto Integrador I
+
 Trabalho apresentado para a componente curricular Projeto integrador I, com o intuito de gerar um programa para controle de um manipuladro robotico Melfa RV-4FRM-D através da utilização da biblioteca OpenCV e ROS.
+
+
+
+## Equipe:
+
+<ul>
+<li>Andrew Carvalho Dellamea</li>
+<li>Brendha Iara Grubber de Lima</li>
+<li>Felipe Alves Santana</li>
+<li>Matheus Ernan Reichert</li>
+</ul>
+
+## Projetos de Referência
 
 Os seguintes projetos foram utilizados como base para realização deste trabalho:
 
@@ -10,7 +25,9 @@ Melfa_robot: Disponível [aqui](https://github.com/tork-a/melfa_robot)
 
 Ball_tracker and ROS: Disponível [aqui](https://github.com/trunc8/ball-tracking-opencv-and-ros)
 
-Para utilizar o pacote deste repositorio, é necessário realizar o passo a passo presente no [site](http://wiki.ros.org/kinetic/Installation/Ubuntu) oficial do ROS Kinetic-Kame e em seguida instalar as dependencias necessárias.
+## Dependencias do pacote
+
+Para utilizar o pacote deste repositorio, é necessário realizar o passo a passo presente no [site]([kinetic/Installation/Ubuntu - ROS Wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu)) oficial do ROS Kinetic-Kame e em seguida instalar as dependencias necessárias.
 
 As seguintes dependencias devem ser instaladas no sistema Ubuntu 16.04 ou semelhante:
 
@@ -37,6 +54,8 @@ Abra o arquivo .bashrc e adicione a seguinte linha ao fim do arquivo
 source /opt/ros/kinetic/setup.sh
 ```
 
+## Executando o programa
+
 Para iniciar o programa cada linha a seguir deve ser rodada em um terminal diferente na seguinte ordem:
 
 Inicia o Driver do kinect
@@ -59,14 +78,4 @@ roslaunch img2joint img2joint.launch
 
 A cor do objeto a ser rastreado deve ser mudada no código disponivel em `catkin_ws/src/img2joint/script/img2jointController.python` nas linhas 39 e 40 que controlam o limite inferior e superior da cor que deseja-se rastrear, estas devem ser descritas no espaço de cores HSV (sugestão, utilize o gimp para determinar o valor da cor e utilize apenas o valor de H com uma variação de 10 unidades a mais e a menos para os limites). 
 
-
-
-Video_demo de Funcionamento:
-
-
-
-
-
-
-
-
+## Video demo de Funcionamento:
