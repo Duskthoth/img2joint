@@ -15,7 +15,7 @@ Trabalho apresentado para o componente curricular Projeto Integrador I, com o in
 <li>Matheus Ernan Reichert</li>
 </ul>
 
-## Projetos de Referência
+## Projetos de Referência 💾
 
 Os seguintes projetos foram utilizados como base para realização deste trabalho:
 
