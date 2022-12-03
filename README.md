@@ -1,6 +1,6 @@
 # Melfa Img2Joint Controller
 
-#### Projeto desenvolvido na disciplina de Projeto Integrador I
+#### Projeto desenvolvido na disciplina de Projeto Integrador I 🎓
 
 Trabalho apresentado para o componente curricular Projeto Integrador I, com o intuito de gerar um programa para controle de um manipulador robótico Melfa RV-4FRM-D através da utilização da biblioteca OpenCV e ROS.
 
@@ -25,7 +25,7 @@ Os seguintes projetos foram utilizados como base para realização deste trabalh
 
 🎱 Ball_tracker and ROS: Disponível [aqui](https://github.com/trunc8/ball-tracking-opencv-and-ros)
 
-## Dependências do pacote
+## Dependências do pacote 💻
 
 Para utilizar o pacote deste repositorio, é necessário realizar o passo a passo presente no [site]([kinetic/Installation/Ubuntu - ROS Wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu)) oficial do ROS Kinetic-Kame e em seguida instalar as dependências necessárias.
 
@@ -54,7 +54,7 @@ Abra o arquivo .bashrc e adicione a seguinte linha ao fim do arquivo
 source /opt/ros/kinetic/setup.sh
 ```
 
-## Executando o programa
+## Executando o programa 💽
 
 Para iniciar o programa cada linha a seguir deve ser rodada em um terminal diferente na seguinte ordem:
 
@@ -78,4 +78,4 @@ roslaunch img2joint img2joint.launch
 
 A cor do objeto a ser rastreado deve ser mudada no código disponível em `catkin_ws/src/img2joint/script/img2jointController.python` nas linhas 39 e 40 que controlam o limite inferior e superior da cor que deseja-se rastrear, estas devem ser descritas no espaço de cores HSV (sugestão: utilize o gimp para determinar o valor da cor e utilize apenas o valor de H com uma variação de 10 unidades a mais e a menos para os limites). 
 
-## Video Demo do Funcionamento:
+## Video Demo do Funcionamento 🎥
