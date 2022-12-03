@@ -1,3 +1,0 @@
-<launch>
-<node name="melfa_img2joint" pkg="img2joint" type="img2jointController.python" respawn=true output="screen"/>
-</launch>
