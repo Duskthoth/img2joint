@@ -25,7 +25,7 @@ Melfa_robot: Disponível [aqui](https://github.com/tork-a/melfa_robot)
 
 Ball_tracker and ROS: Disponível [aqui](https://github.com/trunc8/ball-tracking-opencv-and-ros)
 
-## Dependencias do pacote
+## Dependências do pacote
 
 Para utilizar o pacote deste repositorio, é necessário realizar o passo a passo presente no [site]([kinetic/Installation/Ubuntu - ROS Wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu)) oficial do ROS Kinetic-Kame e em seguida instalar as dependencias necessárias.
 
@@ -78,4 +78,4 @@ roslaunch img2joint img2joint.launch
 
 A cor do objeto a ser rastreado deve ser mudada no código disponivel em `catkin_ws/src/img2joint/script/img2jointController.python` nas linhas 39 e 40 que controlam o limite inferior e superior da cor que deseja-se rastrear, estas devem ser descritas no espaço de cores HSV (sugestão, utilize o gimp para determinar o valor da cor e utilize apenas o valor de H com uma variação de 10 unidades a mais e a menos para os limites). 
 
-## Video demo de Funcionamento:
+## Video Demo do Funcionamento:
