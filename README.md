@@ -19,11 +19,11 @@ Trabalho apresentado para o componente curricular Projeto Integrador I, com o in
 
 Os seguintes projetos foram utilizados como base para realização deste trabalho:
 
-Openni camera project : Disponível [aqui](https://github.com/ros-drivers/openni_camera)
+📷 Openni camera project : Disponível [aqui](https://github.com/ros-drivers/openni_camera)
 
-Melfa_robot: Disponível [aqui](https://github.com/tork-a/melfa_robot)
+🦾 Melfa_robot: Disponível [aqui](https://github.com/tork-a/melfa_robot)
 
-Ball_tracker and ROS: Disponível [aqui](https://github.com/trunc8/ball-tracking-opencv-and-ros)
+🎱 Ball_tracker and ROS: Disponível [aqui](https://github.com/trunc8/ball-tracking-opencv-and-ros)
 
 ## Dependências do pacote
 
