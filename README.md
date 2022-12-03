@@ -2,7 +2,7 @@
 
 #### Projeto desenvolvido na disciplina de Projeto Integrador I
 
-Trabalho apresentado para a componente curricular Projeto integrador I, com o intuito de gerar um programa para controle de um manipuladro robotico Melfa RV-4FRM-D através da utilização da biblioteca OpenCV e ROS.
+Trabalho apresentado para o componente curricular Projeto Integrador I, com o intuito de gerar um programa para controle de um manipulador robotico Melfa RV-4FRM-D através da utilização da biblioteca OpenCV e ROS.
 
 
 
