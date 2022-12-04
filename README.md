@@ -1,4 +1,4 @@
-# Melfa Img2Joint Controller
+# Melfa Img2Joint Controller 🦾🕹️
 
 #### Projeto desenvolvido na disciplina de Projeto Integrador I 🎓
 
