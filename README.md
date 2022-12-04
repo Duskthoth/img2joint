@@ -6,7 +6,7 @@ Trabalho apresentado para o componente curricular Projeto Integrador I, com o in
 
 
 
-## Equipe:
+## Equipe 🤖
 
 <ul>
 <li>Andrew de Carvalho Dellamea</li>
