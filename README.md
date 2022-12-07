@@ -80,5 +80,4 @@ A cor do objeto a ser rastreado deve ser mudada no código disponível em `catki
 
 ## Video Demo do Funcionamento 🎥
 
-https://user-images.githubusercontent.com/48700788/206262293-aa2a691e-37c6-461e-9af8-c6c25e7d08d3.mp4
-
+https://user-images.githubusercontent.com/48700788/206274387-a395ee49-88a5-4a46-bfcf-39a85ee0c454.mp4
