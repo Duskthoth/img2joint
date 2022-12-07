@@ -79,3 +79,6 @@ roslaunch img2joint img2joint.launch
 A cor do objeto a ser rastreado deve ser mudada no código disponível em `catkin_ws/src/img2joint/script/img2jointController.python` nas linhas 39 e 40 que controlam o limite inferior e superior da cor que deseja-se rastrear, estas devem ser descritas no espaço de cores HSV (sugestão: utilize o gimp para determinar o valor da cor e utilize apenas o valor de H com uma variação de 10 unidades a mais e a menos para os limites). 
 
 ## Video Demo do Funcionamento 🎥
+
+https://user-images.githubusercontent.com/48700788/206262293-aa2a691e-37c6-461e-9af8-c6c25e7d08d3.mp4
+
